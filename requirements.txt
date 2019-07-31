@@ -4,3 +4,4 @@ torch
 torchvision
 -e git+https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail@master#egg=a2c-ppo-acktr
 -e git+https://github.com/openai/baselines.git@master#egg=baselines
+tensorflow-gpu
